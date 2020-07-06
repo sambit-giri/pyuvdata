@@ -29,7 +29,7 @@ class UVData(UVBase):
     """
     A class for defining a radio interferometer dataset.
 
-    Currently supported file types: uvfits, miriad, fhd.
+    Currently supported file types: uvfits, miriad, fhd, mir.
     Provides phasing functions.
 
     Attributes
