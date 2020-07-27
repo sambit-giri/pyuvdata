@@ -6,7 +6,7 @@
 [![DOI](http://joss.theoj.org/papers/10.21105/joss.00140/status.svg)](https://doi.org/10.21105/joss.00140)
 
 pyuvdata defines a pythonic interface to interferometric data sets.
-Currently pyuvdata supports reading and writing of mir, miriad, uvfits, and uvh5 files
+Currently pyuvdata supports reading and writing of miriad, uvfits, and uvh5 files
 and reading of CASA measurement sets and FHD
 ([Fast Holographic Deconvolution](https://github.com/EoRImaging/FHD)) visibility save files.
 
